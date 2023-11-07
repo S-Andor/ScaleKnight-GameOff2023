@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="Scale Knight- Game Off 2023"
-run/main_scene="res://TileMap.tscn"
+run/main_scene="res://Scenes/TileMap.tscn"
 config/icon="res://icon.png"
 
 [gui]

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/simple_platformer.png-fc81637491a906431834cef06f0bb33f.stex"
+path="res://.import/simple_platformer.png-3ad67747a6d3a8a2de9e195c6d8cf860.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://simple_platformer.png"
-dest_files=[ "res://.import/simple_platformer.png-fc81637491a906431834cef06f0bb33f.stex" ]
+source_file="res://Assets/simple_platformer.png"
+dest_files=[ "res://.import/simple_platformer.png-3ad67747a6d3a8a2de9e195c6d8cf860.stex" ]
 
 [params]
 
